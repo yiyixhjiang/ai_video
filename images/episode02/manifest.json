@@ -1,0 +1,30 @@
+{
+  "episode": "米饭之后_血糖失控",
+  "updated": "2026-10-06",
+  "assets": [
+    {
+      "id": "S001",
+      "file": "S001.png",
+      "version": 1,
+      "status": "draft_atmosphere_revision_pending",
+      "sha256": "54eb3583d95baa3ad1dfec0df3a998f64e3898a29751260ecc93958a548b0fac",
+      "bytes": 1827357
+    },
+    {
+      "id": "S004",
+      "file": "S004.png",
+      "version": 2,
+      "status": "user_accepted_visual_direction",
+      "sha256": "a492f1f75d1338b18e7a6be792befed0bc86c40a7ded61611aaaeb0b9871bd01",
+      "bytes": 1967550
+    },
+    {
+      "id": "S007",
+      "file": "S007.png",
+      "version": 1,
+      "status": "draft_atmosphere_revision_pending",
+      "sha256": "6555c00cf7648c6e121116833673bb79017e58c3b6dc7fd11f5cbfe5ec5844ec",
+      "bytes": 2229925
+    }
+  ]
+}
