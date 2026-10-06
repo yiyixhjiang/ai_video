@@ -1,30 +1,150 @@
 {
-  "episode": "米饭之后_血糖失控",
-  "updated": "2026-10-06",
-  "assets": [
+  "episode": "米饭之后：血糖失控",
+  "image_count": 18,
+  "images": [
     {
       "id": "S001",
+      "name": "开场问题",
       "file": "S001.png",
-      "version": 1,
-      "status": "draft_atmosphere_revision_pending",
-      "sha256": "54eb3583d95baa3ad1dfec0df3a998f64e3898a29751260ecc93958a548b0fac",
-      "bytes": 1827357
+      "sha256": "58b4c67c1dcafb52503f6a94866736754c83e68e0adbfbd71d6fd493353671c6",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@df07646cdb4f9635a78cfa98cf3b0ce7461c2bbf/images/episode02/S001.png",
+      "review_note": "青年闭口平静，身份、两根筷子与饭桌关系稳定；作为正常进餐基准。"
+    },
+    {
+      "id": "S002",
+      "name": "葡萄糖入血",
+      "file": "S002.png",
+      "sha256": "8fb5a40cf71a36d8102dedea2ceedce8047643a925ce18ac1f85278021c18162",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@df07646cdb4f9635a78cfa98cf3b0ce7461c2bbf/images/episode02/S002.png",
+      "review_note": "葡萄糖蓝包与金色六边形身份保持，闭口表情，红细胞与血管连续；正常基准无需忧虑表情。"
+    },
+    {
+      "id": "S003",
+      "name": "正常响应",
+      "file": "S003.png",
+      "sha256": "f3d6ee5436ac5d28853ebcce7a000f9cf74a7f175b95029b66edfadbdedf3b32",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@df07646cdb4f9635a78cfa98cf3b0ce7461c2bbf/images/episode02/S003.png",
+      "review_note": "与S004同机位与相同主体位置；完整膜和独立转运结构，正常响应信号较清楚；实际转运需视频和后期说明。"
     },
     {
       "id": "S004",
+      "name": "响应减弱",
       "file": "S004.png",
-      "version": 2,
-      "status": "user_accepted_visual_direction",
       "sha256": "a492f1f75d1338b18e7a6be792befed0bc86c40a7ded61611aaaeb0b9871bd01",
-      "bytes": 1967550
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@df07646cdb4f9635a78cfa98cf3b0ce7461c2bbf/images/episode02/S004.png",
+      "review_note": "闭口专注的胰岛素与等待中的葡萄糖；无脸糖粒形成有间隔的短队列。膜完整、受体与转运结构分开；响应减弱仍需正常对照和动画说明。"
+    },
+    {
+      "id": "S005",
+      "name": "长期累积",
+      "file": "S005.png",
+      "sha256": "93650ee970af453e28de35e57e5e61b68826bf82be6415d549f7d606e4d4bab2",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@952f0dbd63507feb713409aba7c130d313ec26e9/images/episode02/S005.png",
+      "review_note": "书桌只保留青年、电脑与书籍，无葡萄糖角色或米粒；闭口平静，久坐是生活行为示意。"
+    },
+    {
+      "id": "S006",
+      "name": "个体差异",
+      "file": "S006.png",
+      "sha256": "7fbe194513704f04f756de6fd7f52d96f118b18e553cc57fd9c3f9cb17b0b644",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@952f0dbd63507feb713409aba7c130d313ec26e9/images/episode02/S006.png",
+      "review_note": "青年与两位成年家人自然同框，无疾病外观标签；脸部与手部关系可用。"
     },
     {
       "id": "S007",
+      "name": "增加补偿",
       "file": "S007.png",
-      "version": 1,
-      "status": "draft_atmosphere_revision_pending",
-      "sha256": "6555c00cf7648c6e121116833673bb79017e58c3b6dc7fd11f5cbfe5ec5844ec",
-      "bytes": 2229925
+      "sha256": "375e3fb82cf6c2c4c06f8f419f4372b7daefca6c8fb07adc4e86488192137261",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@952f0dbd63507feb713409aba7c130d313ec26e9/images/episode02/S007.png",
+      "review_note": "胰岛素闭口专注，处于封闭囊泡内；囊泡与细胞膜清晰，远处毛细血管独立。"
+    },
+    {
+      "id": "S008",
+      "name": "正常背后",
+      "file": "S008.png",
+      "sha256": "543a59395a2312a4a06854ad7c14f0f2d878b03b7457e6bad215fd1e454941fd",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@952f0dbd63507feb713409aba7c130d313ec26e9/images/episode02/S008.png",
+      "review_note": "囊泡和膜边界完整，角色专注；留白仪表是明确的叙事隐喻，后期需标为示意。"
+    },
+    {
+      "id": "S009",
+      "name": "糖尿病前期",
+      "file": "S009.png",
+      "sha256": "c412a62797f960d1db58dc54d83e0de4bad5471f8147a903cd76ea296f7f742d",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@952f0dbd63507feb713409aba7c130d313ec26e9/images/episode02/S009.png",
+      "review_note": "普通诊室，青年与医生身份关系清晰；报告内容留白，不从外观诊断疾病。"
+    },
+    {
+      "id": "S010",
+      "name": "补偿不足",
+      "file": "S010.png",
+      "sha256": "572a3f565b99bd679ba57c2a231fd8789ce7f5ae99aee25e8a7e1b88fdf83a13",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@cfcfe4bdd4f426e880d5a22fd7bbb0a87f4b932e/images/episode02/S010.png",
+      "review_note": "胰岛素保持专注；囊泡融合与释放在胰腺一侧，葡萄糖和红细胞在独立毛细血管内，无堵塞或破损。"
+    },
+    {
+      "id": "S011",
+      "name": "转折",
+      "file": "S011.png",
+      "sha256": "ec6091107585b6ae9ba3f2f78b15c6550cac23a40d77fe63abd0a36416938110",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@cfcfe4bdd4f426e880d5a22fd7bbb0a87f4b932e/images/episode02/S011.png",
+      "review_note": "同一绿衣青年离开诊室，神态平静，未表现瞬间治愈；手与报告、门口关系可用。"
+    },
+    {
+      "id": "S012",
+      "name": "研究起点",
+      "file": "S012.png",
+      "sha256": "996403920543635dd5f2afd98fef9046ff2e3de73392c686ca44aea308656e8c",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@cfcfe4bdd4f426e880d5a22fd7bbb0a87f4b932e/images/episode02/S012.png",
+      "review_note": "普通1980年代社区门诊外景，已移除微观角色与现代青年；后期明确标记历史情境重现。"
+    },
+    {
+      "id": "S013",
+      "name": "生活方式干预",
+      "file": "S013.png",
+      "sha256": "72d6173a7814d321f3226f89697402de718aec53c6e97470135c9827f63e0cdf",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@cfcfe4bdd4f426e880d5a22fd7bbb0a87f4b932e/images/episode02/S013.png",
+      "review_note": "普通医生与居民讨论，未出现具体历史人物；历史重现采用较写实质感，后期标记非档案影像。"
+    },
+    {
+      "id": "S014",
+      "name": "长期结果",
+      "file": "S014.png",
+      "sha256": "dadf340c1cb3d5e07bc38b4f63bec0912736318bd929da64fb5dce7ef6361d98",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@cfcfe4bdd4f426e880d5a22fd7bbb0a87f4b932e/images/episode02/S014.png",
+      "review_note": "留白展示空间，无角色、文字或伪造图表，研究数据与出处由后期准确叠加。"
+    },
+    {
+      "id": "S015",
+      "name": "意义",
+      "file": "S015.png",
+      "sha256": "a1943b4140cadd7e51860c374bfa10a9693e1f0f6439266311e568508a3a7810",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@8ed57fb3244545a2c4cdbf34b6fd8f6b6e09002f/images/episode02/S015.png",
+      "review_note": "仅青年在公园步行，无微观插图；绿衣、面部与手部稳定，克制的希望。"
+    },
+    {
+      "id": "S016",
+      "name": "回到饭桌",
+      "file": "S016.png",
+      "sha256": "e07b0823bea4b4853988a0938cc29f3b647dba027149813929b207560f7fd8a2",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@8ed57fb3244545a2c4cdbf34b6fd8f6b6e09002f/images/episode02/S016.png",
+      "review_note": "与开场饭桌对应，青年夹蔬菜而非移除米饭；身份与两根筷子稳定。"
+    },
+    {
+      "id": "S017",
+      "name": "行动起点",
+      "file": "S017.png",
+      "sha256": "871c31cbb7a8d84970df8de262485d619c258a56f8070a0967c7a78676c5907a",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@8ed57fb3244545a2c4cdbf34b6fd8f6b6e09002f/images/episode02/S017.png",
+      "review_note": "普通餐后情境，两根筷子并列放下，双手自然，无添饭或庆祝。"
+    },
+    {
+      "id": "S018",
+      "name": "共同参与",
+      "file": "S018.png",
+      "sha256": "28bfcbb3a1f9872b1a599b5c298da45e72efde524d2c747c2ce4ce64c906ac85",
+      "public_url": "https://cdn.jsdelivr.net/gh/yiyixhjiang/ai_video@8ed57fb3244545a2c4cdbf34b6fd8f6b6e09002f/images/episode02/S018.png",
+      "review_note": "同一青年与普通医生共同讨论留白计划，双手关系自然，无治愈光效。"
     }
   ]
 }
