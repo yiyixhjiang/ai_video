@@ -1,0 +1,131 @@
+{
+  "project": "同样是大米，为什么有的香软，有的又硬又散？",
+  "frames": [
+    {
+      "id": "S001_F",
+      "file": "S001_F.png",
+      "sha256": "46019ac2a24762e0495732ab66267614443aae929026d1c942381016b8b8c4fc",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S002_F",
+      "file": "S002_F.png",
+      "sha256": "b9c2aa509e0550bdf21907a877e206eb915751b46fb962d07127d10da72ecf98",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S002_L",
+      "file": "S002_L.png",
+      "sha256": "a167a0ca0d5c69221db451845f007d9329de3f337ccc349b92b0389806e9517d",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S003_F",
+      "file": "S003_F.png",
+      "sha256": "2d9b1bd5098bb4d893e9c35ee5b0f41dd6f18aae174c398657cf716346754d24",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S004_F",
+      "file": "S004_F.png",
+      "sha256": "3f64146d69ca6a98e0abc9805e830f1dab806669b7693ddbc540c66984d19fb6",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S005_F",
+      "file": "S005_F.png",
+      "sha256": "d2b6c6ab83c9c19ebf2b5352f48d4aa27fdf4d45a4cc6082aadf653f69196e1d",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S006_F",
+      "file": "S006_F.png",
+      "sha256": "267966b7bbed68c6d53a445d0f3e6868ce1e934df5ec3c9433ac1b743323e4be",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S007_F",
+      "file": "S007_F.png",
+      "sha256": "d471766b579672137573e0340236dff39ce863503fd6140432345806509194d0",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S007_L",
+      "file": "S007_L.png",
+      "sha256": "80aca37ad669c06a1d1e5cc5fb21f5466d4dc44d7203409438b8a53e007ee590",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S008_F",
+      "file": "S008_F.png",
+      "sha256": "f186fdbe852d10751b206ff0fce5e650f9975c7bc8728b555bf89e33aeadd469",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S009_F",
+      "file": "S009_F.png",
+      "sha256": "3ac85a6ca62616c74ce78f2bc4c2b32cc7608fe939d30a4fd0ffabe6a80270ca",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S010_F",
+      "file": "S010_F.png",
+      "sha256": "cd43e5b01a01e4ba13cbea559506999f3a1052165535e2ed782ccf8d749e0e47",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S011_F",
+      "file": "S011_F.png",
+      "sha256": "7480c9ff3fadef7a5aabdaab12f33d7dd243991cd3cd04ec09b85a1da33cef88",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S011_L",
+      "file": "S011_L.png",
+      "sha256": "1240189c894ccf2fafd3f9a35bba62aa4f8cbdbfcdb7aeaf5589bd069a3ca1d6",
+      "size": [
+        941,
+        1672
+      ]
+    }
+  ]
+}
