@@ -1,0 +1,41 @@
+{
+  "project": "铁锅三镜头流程样片",
+  "frames": [
+    {
+      "id": "K01",
+      "file": "K01.png",
+      "sha256": "77e93c32d223687322a33500b58e861a76b3b6989d4ecf7ba29ed1dacb2569b1",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "K02",
+      "file": "K02.png",
+      "sha256": "e971b301a66bedf0b26fe3257e5729586d37044813824bafb26b963fb2046dbe",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "K03",
+      "file": "K03.png",
+      "sha256": "c02ffbc8fa57bc7d066b3943cb4ee4b76787ac0c266fd3de35bda5e4799b902b",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "K04",
+      "file": "K04.png",
+      "sha256": "46ef9fc8baaff989aa42d93e2621a73e708f4c0b0b8c43709cd94f41837f381a",
+      "size": [
+        941,
+        1672
+      ]
+    }
+  ]
+}
