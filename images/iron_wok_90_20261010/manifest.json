@@ -1,0 +1,149 @@
+{
+  "project": "铁锅90秒科普",
+  "frames": [
+    {
+      "id": "S001_F",
+      "file": "S001_F.png",
+      "sha256": "c526beb412110827c2acbd4f4daa561ed9b545814354891eeacd1f0baae98109",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S002_F",
+      "file": "S002_F.png",
+      "sha256": "d8aaac007c09c08c3dbe215d9bdbdd2c17f99011cb23776295ea616d5d7b70fb",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S003_F",
+      "file": "S003_F.png",
+      "sha256": "541d08a656910de313618c0915e17188d192a3ad4ca3a3b26a9275b01ee005e8",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S006_F",
+      "file": "S006_F.png",
+      "sha256": "a88d8b2622103d2bd022d00dc8ca58677f43adc6ecc98795856022bbc0bf4c52",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S007_F",
+      "file": "S007_F.png",
+      "sha256": "87114d958ec3b5158ce2306954fb06e1488d43a19040d32e72976f43d28d90f3",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S008_F",
+      "file": "S008_F.png",
+      "sha256": "b86e6e16e31e8058ccb4f564b498d092b2f35d8bfa538f8a2e5c561edab1221e",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S009_F",
+      "file": "S009_F.png",
+      "sha256": "13134ccab0d99ff55b722269a7ecded49dee8fa341d1c50e5b3e30efe393e9fe",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S010_F",
+      "file": "S010_F.png",
+      "sha256": "b6a6147bc34e178a4b214c22d4547657c6f043b6b195546c7ae110f720e23c82",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S011_F",
+      "file": "S011_F.png",
+      "sha256": "b7c715cf2e9c2cfaa3553143d4c47022db7f6939116e24bc31b9d909240d3b1b",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S011_L",
+      "file": "S011_L.png",
+      "sha256": "c181a5bfaaf7e72cee0ea577ddb34bea1f0d51e1bfa12187ff960e5b09a7a557",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S012_F",
+      "file": "S012_F.png",
+      "sha256": "e8e7a7e056219c40893c07e1c9e560295df976204728430027e8950a7e1ea707",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S012_L",
+      "file": "S012_L.png",
+      "sha256": "b2e58b57d55c30e29d8abaf6e740f118724f6cf166e9edc629d3b8d25c34ceb2",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S013_F",
+      "file": "S013_F.png",
+      "sha256": "9d136f3c2f9705bcdd1ce1453dc8f7bf7b0c0f1c0dc232d12b5659f06fdd24de",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S013_L",
+      "file": "S013_L.png",
+      "sha256": "30f9e1d59a89d1cc5f29577cd65e9dd75b54f3da2f7971008cec1eb10d654517",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S014_F",
+      "file": "S014_F.png",
+      "sha256": "eed59672e13aa58b76121ca4354ce971c86ef0f0f7c97657357c9e52efcd1570",
+      "size": [
+        941,
+        1672
+      ]
+    },
+    {
+      "id": "S014_L",
+      "file": "S014_L.png",
+      "sha256": "1134fbb57b8ccc03ff1f97992740046f967553ea30790714201a5d6014792fca",
+      "size": [
+        941,
+        1672
+      ]
+    }
+  ]
+}
